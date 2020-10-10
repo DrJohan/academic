@@ -1,0 +1,3 @@
+https://drjohan.netlify.app/*   https://drjohan.rbind.io/:splat  301!
+http://drjohan.netlify.app/*   https://drjohan.rbind.io/:splat  301!
+http://drjohan.rbind.io/*      https://drjohan.rbind.io/:splat  301!
