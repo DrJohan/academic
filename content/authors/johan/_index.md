@@ -27,6 +27,7 @@ interests:
 - Data visualisation
 - Literate programming
 - Epidemiology
+- Sports
 
 education:
   courses:
