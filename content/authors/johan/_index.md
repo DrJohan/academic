@@ -18,24 +18,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a real world evidence specialist, certified GCP researcher, and medical doctor by training who loves programming and data science.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Data analysis
 - Information Retrieval
+- Data visualisation
+- Literate programming
+- Epidemiology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Post Graduate Diploma in Health Research
+    institution: Royal College of Suregeon Ireland
+    year: 2016
+  - course: Medical Degree (M.D)
+    institution: Gadjah Mada University, Yogyakarta
     year: 2008
+  - course: Matriculation
+    institution: University Malaysia Sarawak
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
