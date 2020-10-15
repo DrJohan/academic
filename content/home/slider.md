@@ -24,7 +24,7 @@ height = "325px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#f0f7fa"  # An HTML color value.
   overlay_img = "headers/syntax.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -43,6 +43,11 @@ height = "325px"
   overlay_img = "headers/skull.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
+  cta_label = "see my projects"
+  cta_url = "/projects"
+  cta_icon_pack = "fas"
+  cta_icon = "book-reader"
+
 [[item]]
   title = ""
   content = ""
@@ -51,4 +56,9 @@ height = "325px"
   overlay_color = "#f0f7fa"  # An HTML color value.
   overlay_img = "headers/bayes.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "see my projects"
+  cta_url = "/projects"
+  cta_icon_pack = "fas"
+  cta_icon = "book-reader"
 +++
